@@ -1,8 +1,8 @@
 # APCS
 | 年月 | 第一題 | 第二題 | 第三題 | 第四題 |
 | - | - | - | - | - |
-| 201603 | [b964](https://zerojudge.tw/ShowProblem?problemid=b964) #sort | [b965](https://zerojudge.tw/ShowProblem?problemid=b965) #矩陣翻轉  | [b966](https://zerojudge.tw/ShowProblem?problemid=b966) / [f855](https://zerojudge.tw/ShowProblem?problemid=f855) #greedy | [b967](https://zerojudge.tw/ShowProblem?problemid=b967) #最小生成數 |
-| 201610 | [c294](https://zerojudge.tw/ShowProblem?problemid=c294) #sort | [c295](https://zerojudge.tw/ShowProblem?problemid=c295) #sort | [c296](https://zerojudge.tw/ShowProblem?problemid=c296) | [c297](https://zerojudge.tw/ShowProblem?problemid=c297) |
+| 201603 | [b964](https://zerojudge.tw/ShowProblem?problemid=b964) #sort | [b965](https://zerojudge.tw/ShowProblem?problemid=b965) #矩陣翻轉  | [b966](https://zerojudge.tw/ShowProblem?problemid=b966) / [f855](https://zerojudge.tw/ShowProblem?problemid=f855) #greedy | [b967](https://zerojudge.tw/ShowProblem?problemid=b967) #最小生成樹 |
+| 201610 | [c294](https://zerojudge.tw/ShowProblem?problemid=c294) #sort | [c295](https://zerojudge.tw/ShowProblem?problemid=c295) #array | [c296](https://zerojudge.tw/ShowProblem?problemid=c296) | [c297](https://zerojudge.tw/ShowProblem?problemid=c297) |
 | 201703 | [c290](https://zerojudge.tw/ShowProblem?problemid=c290) | [c291](https://zerojudge.tw/ShowProblem?problemid=c291) | [c292](https://zerojudge.tw/ShowProblem?problemid=c292) | [c293](https://zerojudge.tw/ShowProblem?problemid=c293) |
 | 201710 | [c461](https://zerojudge.tw/ShowProblem?problemid=c461) | [c462](https://zerojudge.tw/ShowProblem?problemid=c462) | [c463](https://zerojudge.tw/ShowProblem?problemid=c463) | [c464](https://zerojudge.tw/ShowProblem?problemid=c464) |
 | 201906 | [e286](https://zerojudge.tw/ShowProblem?problemid=e286) | [e287](https://zerojudge.tw/ShowProblem?problemid=e287) | [e288](https://zerojudge.tw/ShowProblem?problemid=e288) | [e289](https://zerojudge.tw/ShowProblem?problemid=e289) |
